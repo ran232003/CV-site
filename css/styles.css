@@ -1,0 +1,85 @@
+.top{
+  background-color: #E4F9F5;
+padding-top: 100px;
+ position: relative;
+
+  /*border:solid;*/
+}
+.body{
+  /*if some of the font wont work so going to the next one;*/
+  font-family:"Ranchers",tahoma,sans-serif;
+
+}
+h1{
+  font-size: 450%;
+  font-family:"Sacramento",tahoma,sans-serif;
+
+  margin-left: 0px;
+  margin-after: 0px;
+/*  margin-top: 180px;*/
+  margin-bottom: 0px;
+  margin-top: 50px;
+  color: #66bfbf;
+  /*line-height: 2;*/
+
+}
+.SoftwareEngineer{
+  font-size: 2rem;
+  color: #66bfbf;
+  font-weight: normal;
+
+}
+h2{
+  color: #66bfbf;
+
+
+}
+.computer-skills{
+  /*height: 150px;*/
+  float: left;
+  width: 25%;
+  border-radius: 50%;
+  margin-right: 30px;
+  /*float: left;*/
+}
+body{
+  text-align: center;
+  margin: 0;
+  background-color: #E4F9F5;
+
+
+
+}
+.skill-row{
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.profile{
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.cloud1{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+.cloud2{
+  position: absolute;
+}
+.mypic{
+  height: 150;
+  width: 150;
+  float: left;
+  margin: 30px;
+}
+.footer-link{
+  color: #11999e;
+}
+.btn{
+  color: #11999e;
+
+}
